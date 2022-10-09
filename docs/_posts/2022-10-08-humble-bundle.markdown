@@ -3,7 +3,7 @@
 ![2020 July](/humblebundle/HB_2020_07.png){:class="img-responsive"}
 ![2020 August](/humblebundle/HB_2020_08.png){:class="img-responsive"}
 ![2020 September](/humblebundle/HB_2020_09.png){:class="img-responsive"}
-![2020 October](humblebundle/HB_2020_10.png){:class="img-responsive"}
+![2020 October](/humblebundle/HB_2020_10.png){:class="img-responsive"}
 ![2020 November](/humblebundle/HB_2020_11.png){:class="img-responsive"}
 ![2020 December](/humblebundle/HB_2020_12.png){:class="img-responsive"}
 ![2021 January](/humblebundle/HB_2021_01.png){:class="img-responsive"}
@@ -15,7 +15,7 @@
 ![2021 July](/humblebundle/HB_2021_07.png){:class="img-responsive"}
 ![2021 August](/humblebundle/HB_2021_08.png){:class="img-responsive"}
 ![2021 September](/humblebundle/HB_2021_09.png){:class="img-responsive"}
-![2021 October](humblebundle/HB_2021_10.png){:class="img-responsive"}
+![2021 October](/humblebundle/HB_2021_10.png){:class="img-responsive"}
 ![2021 November](/humblebundle/HB_2021_11.png){:class="img-responsive"}
 ![2021 December](/humblebundle/HB_2021_12.png){:class="img-responsive"}
 ![2022 January](/humblebundle/HB_2022_01.png){:class="img-responsive"}
@@ -27,4 +27,4 @@
 ![2022 July](/humblebundle/HB_2022_07.png){:class="img-responsive"}
 ![2022 August](/humblebundle/HB_2022_08.png){:class="img-responsive"}
 ![2022 September](/humblebundle/HB_2022_09.png){:class="img-responsive"}
-![2022 October](humblebundle/HB_2022_10.png){:class="img-responsive"}
+![2022 October](/humblebundle/HB_2022_10.png){:class="img-responsive"}
