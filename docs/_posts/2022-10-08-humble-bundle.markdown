@@ -28,3 +28,4 @@
 ![2022 August](/humblebundle/HB_2022_08.png){:class="img-responsive"}
 ![2022 September](/humblebundle/HB_2022_09.png){:class="img-responsive"}
 ![2022 October](/humblebundle/HB_2022_10.png){:class="img-responsive"}
+![2022 November](/humblebundle/HB_2022_11.png){:class="img-responsive"}
