@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "b0cd38b559174c0a",
+    "id": "bd9faa7ec7bee5b2",
     "type": "split",
     "children": [
       {
-        "id": "6d9504224ab694f5",
+        "id": "4f223f457c716d67",
         "type": "tabs",
         "children": [
           {
-            "id": "5751b1d07bf75bfd",
+            "id": "7156fa4fdddc8edf",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "0c754139c9959837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Debugging NodeJs in VS Code.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "31d98bc46a3a1bbd",
+    "id": "750520a76e675ec3",
     "type": "split",
     "children": [
       {
-        "id": "ade0e512f1b52617",
+        "id": "34aeb19dbc75ce9a",
         "type": "tabs",
         "children": [
           {
-            "id": "cf23be5465451d30",
+            "id": "28c1cc46861c5d46",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "9a4a36e2a1b02d83",
+            "id": "ed1096451799aebc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +54,7 @@
             }
           },
           {
-            "id": "24fa2d024707084b",
+            "id": "c257a09d85f88739",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "c04623992f80bad3",
+    "id": "e492337b547d349f",
     "type": "split",
     "children": [
       {
-        "id": "effa0578a0443904",
+        "id": "b55aaadb4e3f52c5",
         "type": "tabs",
         "children": [
           {
-            "id": "6e4d99d197ca0520",
+            "id": "65bd17ad96fd95ea",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Debugging NodeJs in VS Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,19 +92,18 @@
             }
           },
           {
-            "id": "3a4d49885654e824",
+            "id": "1c8a932c6fb49946",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Debugging NodeJs in VS Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f08c2b45a37a9b61",
+            "id": "866bbb3f7085c2b1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -129,13 +114,11 @@
             }
           },
           {
-            "id": "65ad00ea68bfb1c0",
+            "id": "b7ad3cc0a5e24dd0",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Debugging NodeJs in VS Code.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,8 +138,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c754139c9959837",
+  "active": "7156fa4fdddc8edf",
   "lastOpenFiles": [
-    "Debugging NodeJs in VS Code.md"
+    "docs/_posts/2023-09-06-debugging-nodejs-on-vscode.md"
   ]
 }
