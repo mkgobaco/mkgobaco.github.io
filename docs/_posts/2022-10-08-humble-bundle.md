@@ -40,6 +40,3 @@
 ![2023 August](/humblebundle/HB_2023_08.png){:class="img-responsive"}
 ![2023 September](/humblebundle/HB_2023_09.png){:class="img-responsive"}
 ![2023 October](/humblebundle/HB_2023_10.png){:class="img-responsive"}
-
-
-
